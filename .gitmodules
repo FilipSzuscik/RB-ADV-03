@@ -1,0 +1,6 @@
+[submodule ".libBlackBox_library"]
+	path = .libBlackBox_library
+	url = https://github.com/RoboticsBrno/BlackBox_library.git
+[submodule "lib/BlackBox_library"]
+	path = lib/BlackBox_library
+	url = https://github.com/RoboticsBrno/BlackBox_library.git
